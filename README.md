@@ -1,5 +1,3 @@
-<img width="995" height="1280" alt="photo_2026-05-01_20-05-51" src="https://github.com/user-attachments/assets/70f7849c-27dd-4f56-af09-1ac007afa0b1" /># fatej
-
 A new Flutter project.
 
 ## Getting Started
