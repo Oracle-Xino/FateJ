@@ -1,18 +1,19 @@
-A new Flutter project.
+## WELCOME TO FATEJ (FATE AND JOY)
 
-## Getting Started
+FATEJ is a music application that allows users to upload songs from their mobile device, supporting formats such as MP3, AAC, WAV, and M3U. Users can also upload custom album artwork or images and change Color of the UI to satisfy their hearts. 
 
-This project is a starting point for a Flutter application.
+## UI
 
-A few resources to get you started if this is your first Flutter project:
+//Add any songs/images
+<img width="1280" height="2856" alt="Screenshot_1777642932" src="https://github.com/user-attachments/assets/85cb8edd-0b43-41bb-964b-fac35bc8562f" />
+<img width="1280" height="2856" alt="Screenshot_1777642922" src="https://github.com/user-attachments/assets/47757dd7-8522-436b-933d-6230e1ebd305" />
+
+//First UI
+<img width="1280" height="2856" alt="Screenshot_1777643056" src="https://github.com/user-attachments/assets/336f7214-55c1-4b88-817a-22b07c3a1103" />
+<img width="1280" height="2856" alt="Screenshot_1777642956" src="https://github.com/user-attachments/assets/19f552a7-ff60-472a-8773-04e06aa97190" />
 
 
+//Second UI
+<img width="1280" height="2856" alt="Screenshot_1777642974" src="https://github.com/user-attachments/assets/c899b7f2-0efb-414d-aba0-c1648a4d3347" />
+<img width="1280" height="2856" alt="Screenshot_1777643081" src="https://github.com/user-attachments/assets/03e78ec5-18e6-40e1-8f94-60dcefd45bb0" />
 
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
