@@ -6,8 +6,8 @@ FATEJ is a music application that allows users to upload songs from their mobile
 
 //Add any songs/images
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/85cb8edd-0b43-41bb-964b-fac35bc8562f" alt="Screenshot 1" width="250">
-  <img src="https://github.com/user-attachments/assets/47757dd7-8522-436b-933d-6230e1ebd305" alt="Screenshot 2" width="250">
+  <img src="https://github.com/user-attachments/assets/85cb8edd-0b43-41bb-964b-fac35bc8562f" alt="Screenshot 1" width="250" style="margin-right: 20px;"> 
+  <img src="https://github.com/user-attachments/assets/47757dd7-8522-436b-933d-6230e1ebd305" alt="Screenshot 2" width="250" >
 </p>
 
 //First UI
